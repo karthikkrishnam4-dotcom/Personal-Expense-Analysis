@@ -84,3 +84,29 @@ Personal-Expense-Analysis/
 │
 ├── expense_analysis.py
 └── README.md
+
+## Visualizations
+
+### Spending by Category
+
+![Spending by Category](charts/spending_by_category.png)
+
+### Monthly Spending
+
+![Monthly Spending](charts/monthly_spending.png)
+
+### Payment Method Spending
+
+![Payment Method Spending](charts/payment_method_spending.png)
+
+### Expense Distribution
+
+![Expense Distribution](charts/expense_distribution.png)
+
+### Expense Boxplot
+
+![Expense Boxplot](charts/expense_boxplot.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](charts/correlation_heatmap.png)
