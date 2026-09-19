@@ -1,0 +1,25 @@
+expense_id,date,category,description,amount,payment_method
+1,2026-01-02,Food,Breakfast,80,UPI
+2,2026-01-03,Transport,Bus,40,Cash
+3,2026-01-05,Food,Lunch,150,UPI
+4,2026-01-07,Entertainment,Movie,250,Card
+5,2026-01-10,Shopping,Clothes,1200,Card
+6,2026-01-12,Bills,Mobile Recharge,299,UPI
+7,2026-01-15,Food,Dinner,220,UPI
+8,2026-01-18,Transport,Auto,120,Cash
+9,2026-01-20,Entertainment,Game,300,UPI
+10,2026-01-22,Food,Snacks,100,Cash
+11,2026-01-25,Shopping,Shoes,1800,Card
+12,2026-01-28,Bills,Electricity,650,UPI
+13,2026-02-02,Food,Breakfast,90,UPI
+14,2026-02-05,Transport,Bus,50,Cash
+15,2026-02-08,Food,Lunch,180,UPI
+16,2026-02-12,Entertainment,Movie,300,Card
+17,2026-02-15,Shopping,Accessories,500,UPI
+18,2026-02-18,Bills,Internet,700,UPI
+19,2026-02-20,Food,Dinner,250,UPI
+20,2026-02-24,Transport,Auto,150,Cash
+21,2026-03-03,Food,Lunch,160,UPI
+22,2026-03-07,Shopping,Bag,900,Card
+23,2026-03-15,Bills,Electricity,720,UPI
+24,2026-03-20,Entertainment,Movie,280,Card
